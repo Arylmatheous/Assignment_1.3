@@ -1,4 +1,7 @@
-﻿using System;
+//NAME: SALANDANAN, MATHEOUS
+//COURSE & SECTION: BSCpE 1-1 
+
+using System;
 
 class Assignment1_3
 {
